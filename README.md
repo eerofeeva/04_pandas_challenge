@@ -1,3 +1,6 @@
+Comments from student: did the Heroes Of Pymoli challenge, analisys in notebook HeroesOfPymoli_starter.ipynb
+
+___________________________________________________________________________________
 # Pandas Homework - Pandas, Pandas, Pandas
 
 ## Background
